@@ -1,8 +1,8 @@
+import github from "@/../public/github.svg";
+import gmail from "@/../public/gmail.svg";
+import linkedin from "@/../public/linkedin.svg";
+import SocialIcons from "@/components/social-icons";
 import { MapPinned } from "lucide-react";
-import github from "../../../public/github.svg";
-import gmail from "../../../public/gmail.svg";
-import linkedin from "../../../public/linkedin.svg";
-import SocialIcons from "../social-icons";
 
 function Introduction() {
 	const imageSize = 24;
