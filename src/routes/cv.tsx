@@ -1,9 +1,8 @@
 import Introduction from "@/components/introduction";
-import React from "react";
 
 function Cv() {
 	return (
-		<div>
+		<div className="m-4">
 			<Introduction />
 		</div>
 	);
